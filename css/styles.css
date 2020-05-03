@@ -1,0 +1,14 @@
+body {background-color:#EAF6F6;}
+hr {background-color:white;
+    border-style:dotted none none none;
+    border-color: black;
+    height:0px;
+    width:20%;
+    text-align:left;
+    border-width:2px}
+h1 {background-color:none;
+    color:#009496;}
+
+h3 {color:#009496}
+
+th {text-decoration: underline;}
