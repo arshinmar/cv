@@ -9,6 +9,12 @@ hr {background-color:white;
 h1 {background-color:none;
     color:#009496;}
 
-h3 {color:#009496}
+h3 {color:#009496;
+    font-size: 20px;}
 
-th {text-decoration: underline;}
+th {text-decoration: underline;
+    font-size: 17 px;}
+
+a:hover{background-color:yellow;}
+
+.skill:hover{background-color: yellow;}
